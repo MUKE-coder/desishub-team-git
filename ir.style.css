@@ -1,5 +1,7 @@
 body{
     background-color: violet;
+    width: 100vw;
+    height: 100vh;
 }
 .header{
     text-align: center;
@@ -8,8 +10,7 @@ body{
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 900;
-   
+    font-weight: bolder;
     font-size: 3rem;
 }
 h2{
