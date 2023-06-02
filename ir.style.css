@@ -7,7 +7,7 @@ body{
     align-items: center;
 }
 h1{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     font-weight: 900;
    
     font-size: 3rem;
@@ -15,4 +15,9 @@ h1{
 h2{
     font-size: 2REM;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
 }
