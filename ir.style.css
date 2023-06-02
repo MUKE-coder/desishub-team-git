@@ -1,0 +1,23 @@
+body{
+    background-color: violet;
+}
+.header{
+    text-align: center;
+    /* display: flex; */
+    align-items: center;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+   
+    font-size: 3rem;
+}
+h2{
+    font-size: 2REM;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+}
