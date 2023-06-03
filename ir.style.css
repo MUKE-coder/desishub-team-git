@@ -4,7 +4,7 @@ body{
     height: 100vh;
 }
 .header{
-    text-align: center;
+    text-align: cegitnter;
     /* display: flex; */
     align-items: center;
 }
@@ -14,11 +14,15 @@ h1{
     font-size: 3rem;
 }
 h2{
-    font-size: 2REM;
+    font-size: 2rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 p{
     font-weight: 600;
     font-family: 'Courier New', Courier, monospace;
+}
+.services{
+    text-align: start;
+    background-color: blue;
 }
